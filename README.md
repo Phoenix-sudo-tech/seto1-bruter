@@ -28,6 +28,11 @@ screenshots :
 ## 🛠️ Usage
 
 ```bash
+sudo apt update && upgrade -y
+
+sudo apt install git
+
+git clone https://github.com/Phoenix-sudo-tech/seto1-bruter.git
 
 sudo apt install python3-venv
 
