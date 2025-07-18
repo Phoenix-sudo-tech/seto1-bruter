@@ -28,7 +28,7 @@ screenshots :
 ## 🛠️ Usage
 
 ```bash
-sudo apt update && upgrade -y
+sudo apt update && apt upgrade -y
 
 sudo apt install git
 
